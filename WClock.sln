@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WClock", "WClock\WClock.csproj", "{F0BC7B0A-FC4D-4332-BFEC-B0CACE056AA7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WClockSetup", "WClockSetup\WClockSetup.vdproj", "{AD936A5B-64F8-4DFB-8210-9A8B9FEFB9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0BC7B0A-FC4D-4332-BFEC-B0CACE056AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0BC7B0A-FC4D-4332-BFEC-B0CACE056AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0BC7B0A-FC4D-4332-BFEC-B0CACE056AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0BC7B0A-FC4D-4332-BFEC-B0CACE056AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD936A5B-64F8-4DFB-8210-9A8B9FEFB9F3}.Debug|Any CPU.ActiveCfg = Debug
+		{AD936A5B-64F8-4DFB-8210-9A8B9FEFB9F3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10400936-6186-4EE2-B251-9776298F8495}
+	EndGlobalSection
+EndGlobal
